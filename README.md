@@ -7,3 +7,5 @@ Here is a chronological list of resources that I referred, to learn more about O
 beginners learning Hardcaml, as I have basic knowledge of Digital design and Verilog at the start of this. 
 
 - [HardCaml Paper](https://arxiv.org/html/2312.15035v1)
+- [Ocaml Programming by Prof. Michael Clarkson](https://www.youtube.com/watch?v=MUcka_SvhLw&list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU)
+- [Hardcaml Documentation](https://www.janestreet.com/web-app/hardcaml-docs/using-interfaces/hardcaml_interfaces)
