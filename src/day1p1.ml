@@ -1,3 +1,4 @@
+open Base
 open Hardcaml
 open Hardcaml.Signal
 
